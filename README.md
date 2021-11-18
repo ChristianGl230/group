@@ -89,5 +89,5 @@ Data Model:
 
 Network Requests:
 
-![](images/Screen%20Shot%202021-11-15%20at%208.19.04%20PM.png)
+![](https://github.com/ChristianGl230/group/blob/master/Images/Networking.png)
 
