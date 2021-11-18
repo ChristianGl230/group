@@ -85,7 +85,7 @@ Wireframe images:
 
 Data Model:
 
-![](https://github.com/ChristianGl230/group/blob/master/Images/Networking.png)
+![](https://github.com/ChristianGl230/group/blob/master/Images/datamodel.png)
 
 Network Requests:
 
