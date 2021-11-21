@@ -91,3 +91,7 @@ Network Requests:
 
 ![](https://github.com/ChristianGl230/group/blob/master/Images/Networking.png)
 
+Sprint 1
+![](https://github.com/ChristianGl230/group/blob/master/Images/datamodel.png)
+
+
