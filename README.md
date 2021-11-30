@@ -26,6 +26,7 @@ Required User stories:
 
 
 - [x] user **logs in**
+- [x] user can see recent movies
 
 - [ ] user searches the movie/show they are looking for
 
